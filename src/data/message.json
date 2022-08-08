@@ -1,0 +1,18 @@
+{
+    "message_id": 78,
+    "from": {
+        "id": 652042977,
+        "is_bot": false,
+        "first_name": "Reza",
+        "username": "RezaGolpayeganii",
+        "language_code": "en"
+    },
+    "chat": {
+        "id": 652042977,
+        "first_name": "Reza",
+        "username": "RezaGolpayeganii",
+        "type": "private"
+    },
+    "date": 1659976055,
+    "text": "\ud83d\udc64Random Connect"
+}
